@@ -1,0 +1,5 @@
+{
+    "require": {
+      "pimax/chat-bots-cross-platform-php": "dev-master"
+    }
+}
